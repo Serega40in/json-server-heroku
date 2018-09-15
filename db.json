@@ -17,5 +17,19 @@
       "content": "Wow such content!",
       "username": "zero_cool"
     }
-  ]
+  ],
+  "heroes" : [
+    {
+      "id": 1,
+      "name": "Vasya",
+      "img": "1.jpg",
+      "content": "Тестовый контент"
+    },
+    {
+      "id": 2,
+      "name": "Петя",
+      "img": "1.jpg",
+      "content": "Тестовый контент"
+    }
+  ] 
 }
